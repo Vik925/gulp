@@ -1,0 +1,21 @@
+{
+    "first name": "Виктория",
+    "surname": "Аюдуханова",
+    "patronymic": "Ильинична",
+    
+    "age": 26,
+    "mother": {
+        "name": "Светлана",
+        "age": 49
+    },
+    
+    "children": [
+        "Маша",
+        "Игорь",
+        "Таня"
+  ],
+    
+    "married": false,
+    package.json"dog": null
+}
+

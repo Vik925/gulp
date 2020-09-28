@@ -1,0 +1,14 @@
+$base-color: #c6538c;
+$fuchsia: #ff00ee;
+$border-dark: rgba($base-color, 0.88);
+
+.alert {
+  border: 1px solid $border-dark;
+}
+
+.test {
+    background-color: aliceblue;
+    &:hover{
+        background-color: $fuchsia; 
+    }
+}
